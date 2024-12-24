@@ -1,0 +1,85 @@
+{
+    "attrs": Set {},
+    "childNodes": [],
+    "localName": "svg",
+    "namespaceURI": "http://www.w3.org/2000/svg",
+    "nodeName": "svg",
+    "nodeType": 1,
+    "nodeValue": null,
+    "ownerDocument": {
+        "attrs": Set {},
+        "childNodes": [
+            [Circular
+            ]
+        ],
+        "defaultView": null,
+        "implementation": {
+            "createDocument": [Function createDocument
+            ],
+            "createDocumentType": [Function createDocumentType
+            ],
+            "createHTMLDocument": [Function createHTMLDocument
+            ],
+            "hasFeature": [Function hasFeature
+            ]
+        },
+        "localName": "#document",
+        "namespaceURI": "http://www.w3.org/2000/svg",
+        "nodeName": "#document",
+        "nodeType": 9,
+        "nodeValue": null,
+        "ownerDocument": null,
+        "parentNode": null,
+        "prefix": null, Symbol(private properties): {
+            "listeners": [Object
+            ]
+        }
+    },
+    "parentNode": {
+        "attrs": Set {},
+        "childNodes": [
+            [Circular
+            ]
+        ],
+        "defaultView": null,
+        "implementation": {
+            "createDocument": [Function createDocument
+            ],
+            "createDocumentType": [Function createDocumentType
+            ],
+            "createHTMLDocument": [Function createHTMLDocument
+            ],
+            "hasFeature": [Function hasFeature
+            ]
+        },
+        "localName": "#document",
+        "namespaceURI": "http://www.w3.org/2000/svg",
+        "nodeName": "#document",
+        "nodeType": 9,
+        "nodeValue": null,
+        "ownerDocument": null,
+        "parentNode": null,
+        "prefix": null, Symbol(private properties): {
+            "listeners": [Object
+            ]
+        }
+    },
+    "prefix": null,
+    "style": {
+        "attrs": "",
+        "childNodes": "",
+        "localName": "",
+        "namespaceURI": "",
+        "nodeName": "",
+        "nodeType": "",
+        "nodeValue": "",
+        "ownerDocument": "",
+        "parentNode": "",
+        "prefix": "",
+        "style": "",
+        "tagName": "", Symbol(private properties): ""
+    },
+    "tagName": "svg", Symbol(private properties): {
+        "listeners": {}
+    }
+}
