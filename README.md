@@ -1,7 +1,5 @@
 # Polargraph Controller
 
-## 简介
-
 2024 年清华大学第 27 届硬件设计大赛 优胜奖作品：极坐标绘图仪
 
 此仓库是面向 Arduino Sever [polargraph_server_a1](https://github.com/euphy/polargraph_server_a1) 开发的 Android 端控制程序，基于 React Native。
